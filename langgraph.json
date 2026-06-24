@@ -1,0 +1,7 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "supervisor_pipeline": "./main.py:app"
+  },
+  "env": ".env"
+}
