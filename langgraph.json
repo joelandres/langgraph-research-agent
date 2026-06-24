@@ -1,4 +1,6 @@
 {
+  "python_version": "3.11",
+  "base_image": "langchain/langgraph-server:3.11",
   "dependencies": ["pyproject.toml"],
   "graphs": {
     "supervisor_pipeline": "./main.py:app"
