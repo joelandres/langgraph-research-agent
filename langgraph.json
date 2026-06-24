@@ -1,5 +1,5 @@
 {
-  "dependencies": ["."],
+  "dependencies": ["pyproject.toml"],
   "graphs": {
     "supervisor_pipeline": "./main.py:app"
   },
