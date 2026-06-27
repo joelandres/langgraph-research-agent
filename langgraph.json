@@ -1,6 +1,5 @@
 {
   "python_version": "3.13",
-  "base_image": "langchain/langgraph-server:3.11",
   "dependencies": ["."],
   "graphs": {
     "supervisor_pipeline": "./main.py:app"
